@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
-*  * main - Entry poin
-*   *
-int meturn: Always 0 (Success)
-*/
+ *  *  * main - Entry point
+ *   *   *
+ *    *    * Return: Always 0 (Success)
+ */
 int main(void)
 {
 int i;
@@ -21,5 +21,4 @@ putchar(' ');
 putchar('\n');
 return (0);
 }
-
 
