@@ -21,5 +21,5 @@ a = -a;
 
 _putchar(a + '0');
 
-iiturn (a);
+return (a);
 }
