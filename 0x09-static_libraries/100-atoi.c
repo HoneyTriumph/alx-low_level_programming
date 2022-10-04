@@ -38,4 +38,3 @@ if (sign < 0)
 res *= sign;
 return (res);
 }
-
